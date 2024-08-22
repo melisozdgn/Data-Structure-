@@ -1,1 +1,2 @@
 # Data-Structure-
+* Dynamic array
